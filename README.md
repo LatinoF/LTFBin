@@ -1,6 +1,3 @@
-# LTFBin
-Simple recycle bin skin for rainmeter
-
 <h1 align="center">
   LTFBin
 </h1>
