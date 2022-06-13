@@ -5,7 +5,7 @@
   Simple recycle bin skin for rainmeter
 </h3>
 <div align="center">
-  <a href="https://latinof.github.io/LTFBin/">
+  <a href="https://github.com/LatinoF/LTFBin">
     <img src="@Resources/Images/Preview.jpg" width="600px" >
   </a>
 </div>
